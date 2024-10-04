@@ -1,4 +1,5 @@
 public class SortColors {
+    @SuppressWarnings("unused")
     public static void sort_colors(int nums[]) {
         int zero=0, one=0, two=0;
         for(int i=0; i<nums.length; i++) {
